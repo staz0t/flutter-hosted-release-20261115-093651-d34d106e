@@ -1,0 +1,6 @@
+name: reviewed_release_tool
+version: 1.0.0
+environment:
+  sdk: ^3.8.0
+dependencies:
+  contributor_helper: ^1.0.0
